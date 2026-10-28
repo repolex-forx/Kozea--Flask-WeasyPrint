@@ -1,0 +1,11 @@
+{
+  "org": "Kozea",
+  "repo": "Flask-WeasyPrint",
+  "versions": [
+    {
+      "commit": "9c7b3f40f13dc8878aaf367e86b24f11c2d37fd2",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:12:44.936869+00:00"
+    }
+  ]
+}
