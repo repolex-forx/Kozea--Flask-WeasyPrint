@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Kozea/Flask-WeasyPrint/commit/9c7b3f40f13dc8878aaf367e86b24f11c2d37fd2",
       "git:hexsha": "9c7b3f40f13dc8878aaf367e86b24f11c2d37fd2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Kozea/Flask-WeasyPrint/commit/f42c8634d36eb51deaaa700bf20746fbecfd5d6f",
